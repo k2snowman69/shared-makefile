@@ -46,18 +46,22 @@ Other notes:
 
 # Last checked versions
 
-This example code was last verified on Windows on October 1st, 2018
-| Tool | Version |
-| ------------- | -------- |
-| Windows | 10 Version 1803 |
-| EMCC | 1.38.12 (commit 0d8576c0e8f5ee09a36120b9d44184b5da2f2e7a) |
-| Node | 8.9.1 |
-| mingw32-make | v5.0.0 |
+This example code was last manually verified on Windows on October 1st, 2018
+
+| Tool         | Version                                                   |
+| ------------ | --------------------------------------------------------- |
+| Windows      | 10 Version 1803                                           |
+| EMCC         | 1.38.12 (commit 0d8576c0e8f5ee09a36120b9d44184b5da2f2e7a) |
+| Node         | 8.9.1                                                     |
+| mingw32-make | v5.0.0                                                    |
 
 This example code was last verified on OSX on October 1st, 2018
-| Tool | Version |
-| ------------- | -------- |
-| macOS | Version 10.13.6 |
-| EMCC | 1.38.12 (commit 0d8576c0e8f5ee09a36120b9d44184b5da2f2e7a) |
-| Node | 8.12.0 |
-| make | GNU Make 3.81 |
+
+| Tool  | Version                                                   |
+| ----- | --------------------------------------------------------- |
+| macOS | Version 10.13.6                                           |
+| EMCC  | 1.38.12 (commit 0d8576c0e8f5ee09a36120b9d44184b5da2f2e7a) |
+| Node  | 8.12.0                                                    |
+| make  | GNU Make 3.81                                             |
+
+Note that there is a CI using this project found [here](https://github.com/snowcoders/boilerplate-emscripten-typescript)
